@@ -1,4 +1,4 @@
-# Intoduction about yourself.
+# About Me.
 
 "👋 Hi, I'm S.V. Chiranjeevi, currently pursuing my B.Tech degree at Amrita Viswa Vidyapeetham 🎓, and I'm thrilled to express my eagerness to join Technity! 🌟 I'm on a quest to expand my knowledge 🧠 and, as someone who is fervently enthusiastic about technology 💻, I'm excited to connect with a community of like-minded individuals who share my passion. I'm eagerly anticipating the chance to collaborate, learn, and grow with all of you. 🚀 Thank you for considering my application, and I can't wait to become an active member of Technity! 🤝"
 
